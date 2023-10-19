@@ -1,0 +1,1 @@
+streamlit run "D:\Personal\MCA 21-23\Trimester 5\Project Based Learning\MultipleDiseasePrediction\multiplediseasedetection.py"
